@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0027-remove-element](https://github.com/Chiragsingh1907/Leet-code/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chiragsingh1907/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/Chiragsingh1907/Leet-code/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Chiragsingh1907/Leet-code/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Chiragsingh1907/Leet-code/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
