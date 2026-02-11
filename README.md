@@ -10,6 +10,7 @@ Collection of LeetCode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chiragsingh1907/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Chiragsingh1907/Leet-code/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0867-transpose-matrix](https://github.com/Chiragsingh1907/Leet-code/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,12 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Chiragsingh1907/Leet-code/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Chiragsingh1907/Leet-code/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Chiragsingh1907/Leet-code/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
