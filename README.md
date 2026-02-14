@@ -7,6 +7,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Chiragsingh1907/Leet-code/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Chiragsingh1907/Leet-code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Chiragsingh1907/Leet-code/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chiragsingh1907/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Chiragsingh1907/Leet-code/tree/master/0283-move-zeroes) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Chiragsingh1907/Leet-code/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/Chiragsingh1907/Leet-code/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -50,6 +52,7 @@ Collection of LeetCode questions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Chiragsingh1907/Leet-code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Chiragsingh1907/Leet-code/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Chiragsingh1907/Leet-code/tree/master/0867-transpose-matrix) |
 ## Simulation
