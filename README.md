@@ -12,6 +12,7 @@ Collection of LeetCode questions
 | [0054-spiral-matrix](https://github.com/Chiragsingh1907/Leet-code/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chiragsingh1907/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Chiragsingh1907/Leet-code/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Chiragsingh1907/Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Chiragsingh1907/Leet-code/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0867-transpose-matrix](https://github.com/Chiragsingh1907/Leet-code/tree/master/0867-transpose-matrix) |
@@ -69,4 +70,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chiragsingh1907/Leet-code/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Chiragsingh1907/Leet-code/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
