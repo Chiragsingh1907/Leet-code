@@ -6,6 +6,7 @@ Collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Chiragsingh1907/Leet-code/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Chiragsingh1907/Leet-code/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Chiragsingh1907/Leet-code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Chiragsingh1907/Leet-code/tree/master/0053-maximum-subarray) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Chiragsingh1907/Leet-code/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Chiragsingh1907/Leet-code/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Chiragsingh1907/Leet-code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Chiragsingh1907/Leet-code/tree/master/0283-move-zeroes) |
@@ -35,6 +37,7 @@ Collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Chiragsingh1907/Leet-code/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
