@@ -102,5 +102,10 @@ Collection of LeetCode questions
 | [0142-linked-list-cycle-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0876-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
