@@ -32,6 +32,7 @@ Collection of LeetCode questions
 | [0141-linked-list-cycle](https://github.com/Chiragsingh1907/Leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Chiragsingh1907/Leet-code/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Chiragsingh1907/Leet-code/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0876-middle-of-the-linked-list) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Chiragsingh1907/Leet-code/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -102,10 +104,15 @@ Collection of LeetCode questions
 | [0142-linked-list-cycle-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0707-design-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
