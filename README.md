@@ -48,6 +48,7 @@ Collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Chiragsingh1907/Leet-code/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Chiragsingh1907/Leet-code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Chiragsingh1907/Leet-code/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Chiragsingh1907/Leet-code/tree/master/0509-fibonacci-number) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Chiragsingh1907/Leet-code/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0234-palindrome-linked-list) |
@@ -100,6 +102,7 @@ Collection of LeetCode questions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Chiragsingh1907/Leet-code/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Chiragsingh1907/Leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0203-remove-linked-list-elements) |
