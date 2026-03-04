@@ -115,11 +115,13 @@ Collection of LeetCode questions
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Chiragsingh1907/Leet-code/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chiragsingh1907/Leet-code/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Chiragsingh1907/Leet-code/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0445-add-two-numbers-ii) |
 ## String
