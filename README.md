@@ -17,6 +17,7 @@ Collection of LeetCode questions
 | [0238-product-of-array-except-self](https://github.com/Chiragsingh1907/Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Chiragsingh1907/Leet-code/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0641-design-circular-deque](https://github.com/Chiragsingh1907/Leet-code/tree/master/0641-design-circular-deque) |
 | [0867-transpose-matrix](https://github.com/Chiragsingh1907/Leet-code/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Chiragsingh1907/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Table
@@ -99,6 +100,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Chiragsingh1907/Leet-code/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/Chiragsingh1907/Leet-code/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Chiragsingh1907/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -114,6 +116,7 @@ Collection of LeetCode questions
 | [0206-reverse-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0445-add-two-numbers-ii) |
+| [0641-design-circular-deque](https://github.com/Chiragsingh1907/Leet-code/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -121,6 +124,7 @@ Collection of LeetCode questions
 | ------- |
 | [0155-min-stack](https://github.com/Chiragsingh1907/Leet-code/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Chiragsingh1907/Leet-code/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/Chiragsingh1907/Leet-code/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
