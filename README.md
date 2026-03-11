@@ -17,6 +17,7 @@ Collection of LeetCode questions
 | [0238-product-of-array-except-self](https://github.com/Chiragsingh1907/Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Chiragsingh1907/Leet-code/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Chiragsingh1907/Leet-code/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0641-design-circular-deque](https://github.com/Chiragsingh1907/Leet-code/tree/master/0641-design-circular-deque) |
 | [0867-transpose-matrix](https://github.com/Chiragsingh1907/Leet-code/tree/master/0867-transpose-matrix) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Chiragsingh1907/Leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -47,6 +49,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Chiragsingh1907/Leet-code/tree/master/0015-3sum) |
+| [0347-top-k-frequent-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
@@ -92,6 +95,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chiragsingh1907/Leet-code/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Chiragsingh1907/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
@@ -153,6 +157,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Chiragsingh1907/Leet-code/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chiragsingh1907/Leet-code/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Tree
 |  |
@@ -170,4 +175,16 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chiragsingh1907/Leet-code/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
