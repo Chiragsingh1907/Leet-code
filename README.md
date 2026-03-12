@@ -20,6 +20,7 @@ Collection of LeetCode questions
 | [0347-top-k-frequent-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0641-design-circular-deque](https://github.com/Chiragsingh1907/Leet-code/tree/master/0641-design-circular-deque) |
+| [0739-daily-temperatures](https://github.com/Chiragsingh1907/Leet-code/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Chiragsingh1907/Leet-code/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Chiragsingh1907/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Table
@@ -144,6 +145,7 @@ Collection of LeetCode questions
 | [0232-implement-queue-using-stacks](https://github.com/Chiragsingh1907/Leet-code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0445-add-two-numbers-ii) |
+| [0739-daily-temperatures](https://github.com/Chiragsingh1907/Leet-code/tree/master/0739-daily-temperatures) |
 ## String
 |  |
 | ------- |
@@ -187,4 +189,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Chiragsingh1907/Leet-code/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
