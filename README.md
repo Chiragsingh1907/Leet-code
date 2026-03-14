@@ -42,6 +42,7 @@ Collection of LeetCode questions
 | [0189-rotate-array](https://github.com/Chiragsingh1907/Leet-code/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Chiragsingh1907/Leet-code/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/Chiragsingh1907/Leet-code/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -52,6 +53,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Chiragsingh1907/Leet-code/tree/master/0015-3sum) |
+| [0295-find-median-from-data-stream](https://github.com/Chiragsingh1907/Leet-code/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0621-task-scheduler](https://github.com/Chiragsingh1907/Leet-code/tree/master/0621-task-scheduler) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions
 | ------- |
 | [0155-min-stack](https://github.com/Chiragsingh1907/Leet-code/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Chiragsingh1907/Leet-code/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Chiragsingh1907/Leet-code/tree/master/0295-find-median-from-data-stream) |
 | [0641-design-circular-deque](https://github.com/Chiragsingh1907/Leet-code/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chiragsingh1907/Leet-code/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0707-design-linked-list) |
@@ -162,6 +165,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Chiragsingh1907/Leet-code/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Chiragsingh1907/Leet-code/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Chiragsingh1907/Leet-code/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chiragsingh1907/Leet-code/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -180,6 +184,7 @@ Collection of LeetCode questions
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Chiragsingh1907/Leet-code/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chiragsingh1907/Leet-code/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
