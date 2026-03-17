@@ -146,6 +146,7 @@ Collection of LeetCode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chiragsingh1907/Leet-code/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chiragsingh1907/Leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Chiragsingh1907/Leet-code/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0227-basic-calculator-ii) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chiragsingh1907/Leet-code/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -183,6 +185,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chiragsingh1907/Leet-code/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -214,4 +217,5 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
