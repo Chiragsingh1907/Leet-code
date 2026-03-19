@@ -7,22 +7,16 @@
  * };
  */
 
-#include <math.h>
-
 int maxDepth(struct TreeNode* root) {
-    // Base Case: If the tree is empty
+    // Base case: If the node is NULL, depth is 0
     if (root == NULL) {
         return 0;
     }
 
-    // Recursive calls for left and right subtrees
-    int leftHeight = maxDepth(root->left);
-    int rightHeight = maxDepth(root->right);
+    // Recursively find the depth of left and right subtrees
+    int leftDepth = maxDepth(root->left);
+    int rightDepth = maxDepth(root->right);
 
-    // Return the maximum of the two plus 1 for the current node
-    if (leftHeight > rightHeight) {
-        return leftHeight + 1;
-    } else {
-        return rightHeight + 1;
-    }
+    // Return the maximum of the two subtrees + 1 for the current node
+    return (leftDepth > rightDepth ? leftDepth : rightDepth) + 1;
 }
