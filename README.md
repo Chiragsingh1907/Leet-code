@@ -11,6 +11,7 @@ Collection of LeetCode questions
 | [0048-rotate-image](https://github.com/Chiragsingh1907/Leet-code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Chiragsingh1907/Leet-code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Chiragsingh1907/Leet-code/tree/master/0054-spiral-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chiragsingh1907/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chiragsingh1907/Leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Chiragsingh1907/Leet-code/tree/master/0189-rotate-array) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Chiragsingh1907/Leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0347-top-k-frequent-elements) |
@@ -101,6 +103,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chiragsingh1907/Leet-code/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Chiragsingh1907/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
@@ -181,6 +184,7 @@ Collection of LeetCode questions
 | [0102-binary-tree-level-order-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chiragsingh1907/Leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Chiragsingh1907/Leet-code/tree/master/0199-binary-tree-right-side-view) |
@@ -205,6 +209,7 @@ Collection of LeetCode questions
 | [0102-binary-tree-level-order-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chiragsingh1907/Leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chiragsingh1907/Leet-code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Chiragsingh1907/Leet-code/tree/master/0199-binary-tree-right-side-view) |
