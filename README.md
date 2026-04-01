@@ -78,6 +78,7 @@ Collection of LeetCode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chiragsingh1907/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Chiragsingh1907/Leet-code/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Chiragsingh1907/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
+| [0968-binary-tree-cameras](https://github.com/Chiragsingh1907/Leet-code/tree/master/0968-binary-tree-cameras) |
 ## Recursion
 |  |
 | ------- |
@@ -198,6 +199,7 @@ Collection of LeetCode questions
 | [0700-search-in-a-binary-search-tree](https://github.com/Chiragsingh1907/Leet-code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Chiragsingh1907/Leet-code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chiragsingh1907/Leet-code/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0968-binary-tree-cameras](https://github.com/Chiragsingh1907/Leet-code/tree/master/0968-binary-tree-cameras) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -224,6 +226,7 @@ Collection of LeetCode questions
 | [0700-search-in-a-binary-search-tree](https://github.com/Chiragsingh1907/Leet-code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Chiragsingh1907/Leet-code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chiragsingh1907/Leet-code/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0968-binary-tree-cameras](https://github.com/Chiragsingh1907/Leet-code/tree/master/0968-binary-tree-cameras) |
 ## Data Stream
 |  |
 | ------- |
@@ -262,6 +265,7 @@ Collection of LeetCode questions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chiragsingh1907/Leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chiragsingh1907/Leet-code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Chiragsingh1907/Leet-code/tree/master/0404-sum-of-left-leaves) |
+| [0968-binary-tree-cameras](https://github.com/Chiragsingh1907/Leet-code/tree/master/0968-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
 | ------- |
