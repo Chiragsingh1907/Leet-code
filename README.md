@@ -27,6 +27,7 @@ Collection of LeetCode questions
 | [0739-daily-temperatures](https://github.com/Chiragsingh1907/Leet-code/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Chiragsingh1907/Leet-code/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Chiragsingh1907/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/Chiragsingh1907/Leet-code/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Collection of LeetCode questions
 | [0054-spiral-matrix](https://github.com/Chiragsingh1907/Leet-code/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/Chiragsingh1907/Leet-code/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Chiragsingh1907/Leet-code/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Chiragsingh1907/Leet-code/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -283,6 +285,7 @@ Collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/Chiragsingh1907/Leet-code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Chiragsingh1907/Leet-code/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Chiragsingh1907/Leet-code/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Chiragsingh1907/Leet-code/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
