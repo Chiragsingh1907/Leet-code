@@ -184,6 +184,7 @@ Collection of LeetCode questions
 | [0347-top-k-frequent-elements](https://github.com/Chiragsingh1907/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Chiragsingh1907/Leet-code/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chiragsingh1907/Leet-code/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/Chiragsingh1907/Leet-code/tree/master/0743-network-delay-time) |
 ## Tree
 |  |
 | ------- |
@@ -273,6 +274,7 @@ Collection of LeetCode questions
 | [0404-sum-of-left-leaves](https://github.com/Chiragsingh1907/Leet-code/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Chiragsingh1907/Leet-code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Chiragsingh1907/Leet-code/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Chiragsingh1907/Leet-code/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/Chiragsingh1907/Leet-code/tree/master/0841-keys-and-rooms) |
 | [0968-binary-tree-cameras](https://github.com/Chiragsingh1907/Leet-code/tree/master/0968-binary-tree-cameras) |
 ## Breadth-First Search
@@ -288,6 +290,7 @@ Collection of LeetCode questions
 | [0404-sum-of-left-leaves](https://github.com/Chiragsingh1907/Leet-code/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Chiragsingh1907/Leet-code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Chiragsingh1907/Leet-code/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Chiragsingh1907/Leet-code/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/Chiragsingh1907/Leet-code/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Chiragsingh1907/Leet-code/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -300,10 +303,15 @@ Collection of LeetCode questions
 | [0207-course-schedule](https://github.com/Chiragsingh1907/Leet-code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Chiragsingh1907/Leet-code/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Chiragsingh1907/Leet-code/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/Chiragsingh1907/Leet-code/tree/master/0841-keys-and-rooms) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Chiragsingh1907/Leet-code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Chiragsingh1907/Leet-code/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
