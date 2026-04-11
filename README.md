@@ -79,6 +79,7 @@ Collection of LeetCode questions
 | [0053-maximum-subarray](https://github.com/Chiragsingh1907/Leet-code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chiragsingh1907/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Chiragsingh1907/Leet-code/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chiragsingh1907/Leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Chiragsingh1907/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
 | [0968-binary-tree-cameras](https://github.com/Chiragsingh1907/Leet-code/tree/master/0968-binary-tree-cameras) |
 ## Recursion
@@ -185,6 +186,7 @@ Collection of LeetCode questions
 | [0621-task-scheduler](https://github.com/Chiragsingh1907/Leet-code/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chiragsingh1907/Leet-code/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Chiragsingh1907/Leet-code/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chiragsingh1907/Leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Tree
 |  |
 | ------- |
@@ -275,6 +277,7 @@ Collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/Chiragsingh1907/Leet-code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Chiragsingh1907/Leet-code/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Chiragsingh1907/Leet-code/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chiragsingh1907/Leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Chiragsingh1907/Leet-code/tree/master/0841-keys-and-rooms) |
 | [0968-binary-tree-cameras](https://github.com/Chiragsingh1907/Leet-code/tree/master/0968-binary-tree-cameras) |
 ## Breadth-First Search
@@ -291,6 +294,7 @@ Collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/Chiragsingh1907/Leet-code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Chiragsingh1907/Leet-code/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Chiragsingh1907/Leet-code/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chiragsingh1907/Leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Chiragsingh1907/Leet-code/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Chiragsingh1907/Leet-code/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -304,6 +308,7 @@ Collection of LeetCode questions
 | [0210-course-schedule-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Chiragsingh1907/Leet-code/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Chiragsingh1907/Leet-code/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chiragsingh1907/Leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Chiragsingh1907/Leet-code/tree/master/0841-keys-and-rooms) |
 ## Topological Sort
 |  |
@@ -314,4 +319,5 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Chiragsingh1907/Leet-code/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chiragsingh1907/Leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
