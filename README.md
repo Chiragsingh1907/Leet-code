@@ -28,6 +28,7 @@ Collection of LeetCode questions
 | [0867-transpose-matrix](https://github.com/Chiragsingh1907/Leet-code/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Chiragsingh1907/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/Chiragsingh1907/Leet-code/tree/master/0994-rotting-oranges) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Chiragsingh1907/Leet-code/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
 |  |
 | ------- |
@@ -301,6 +302,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Chiragsingh1907/Leet-code/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Chiragsingh1907/Leet-code/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
@@ -310,6 +312,7 @@ Collection of LeetCode questions
 | [0743-network-delay-time](https://github.com/Chiragsingh1907/Leet-code/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chiragsingh1907/Leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Chiragsingh1907/Leet-code/tree/master/0841-keys-and-rooms) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Chiragsingh1907/Leet-code/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -320,4 +323,8 @@ Collection of LeetCode questions
 | ------- |
 | [0743-network-delay-time](https://github.com/Chiragsingh1907/Leet-code/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chiragsingh1907/Leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Chiragsingh1907/Leet-code/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
