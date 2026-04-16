@@ -279,6 +279,7 @@ Collection of LeetCode questions
 | [0684-redundant-connection](https://github.com/Chiragsingh1907/Leet-code/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Chiragsingh1907/Leet-code/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Chiragsingh1907/Leet-code/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Chiragsingh1907/Leet-code/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chiragsingh1907/Leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Chiragsingh1907/Leet-code/tree/master/0841-keys-and-rooms) |
 | [0968-binary-tree-cameras](https://github.com/Chiragsingh1907/Leet-code/tree/master/0968-binary-tree-cameras) |
@@ -297,6 +298,7 @@ Collection of LeetCode questions
 | [0684-redundant-connection](https://github.com/Chiragsingh1907/Leet-code/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Chiragsingh1907/Leet-code/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Chiragsingh1907/Leet-code/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Chiragsingh1907/Leet-code/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chiragsingh1907/Leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Chiragsingh1907/Leet-code/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Chiragsingh1907/Leet-code/tree/master/0994-rotting-oranges) |
@@ -305,6 +307,7 @@ Collection of LeetCode questions
 | ------- |
 | [0547-number-of-provinces](https://github.com/Chiragsingh1907/Leet-code/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Chiragsingh1907/Leet-code/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/Chiragsingh1907/Leet-code/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Chiragsingh1907/Leet-code/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
@@ -314,6 +317,7 @@ Collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/Chiragsingh1907/Leet-code/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Chiragsingh1907/Leet-code/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Chiragsingh1907/Leet-code/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Chiragsingh1907/Leet-code/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chiragsingh1907/Leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Chiragsingh1907/Leet-code/tree/master/0841-keys-and-rooms) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Chiragsingh1907/Leet-code/tree/master/1584-min-cost-to-connect-all-points) |
