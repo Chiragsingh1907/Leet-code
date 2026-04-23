@@ -8,6 +8,7 @@ Collection of LeetCode questions
 | ------- |
 | [0015-3sum](https://github.com/Chiragsingh1907/Leet-code/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Chiragsingh1907/Leet-code/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Chiragsingh1907/Leet-code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Chiragsingh1907/Leet-code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Chiragsingh1907/Leet-code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Chiragsingh1907/Leet-code/tree/master/0054-spiral-matrix) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Chiragsingh1907/Leet-code/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
