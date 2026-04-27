@@ -17,6 +17,7 @@ Collection of LeetCode questions
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chiragsingh1907/Leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chiragsingh1907/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chiragsingh1907/Leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chiragsingh1907/Leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Chiragsingh1907/Leet-code/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Chiragsingh1907/Leet-code/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Chiragsingh1907/Leet-code/tree/master/0238-product-of-array-except-self) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions
 | [0033-search-in-rotated-sorted-array](https://github.com/Chiragsingh1907/Leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chiragsingh1907/Leet-code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Chiragsingh1907/Leet-code/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chiragsingh1907/Leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Chiragsingh1907/Leet-code/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
