@@ -61,6 +61,7 @@ Collection of LeetCode questions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chiragsingh1907/Leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chiragsingh1907/Leet-code/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Chiragsingh1907/Leet-code/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Chiragsingh1907/Leet-code/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -76,6 +77,7 @@ Collection of LeetCode questions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chiragsingh1907/Leet-code/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Chiragsingh1907/Leet-code/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Chiragsingh1907/Leet-code/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chiragsingh1907/Leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Chiragsingh1907/Leet-code/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Chiragsingh1907/Leet-code/tree/master/0227-basic-calculator-ii) |
